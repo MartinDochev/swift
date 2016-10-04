@@ -22,7 +22,7 @@ public class Task2d_PrintSplitIndex {
 
             }
             if (leftSum == rightSum) { 
-                System.out.print(row + 1); // prints the possition (not array index)
+                System.out.print(row); // prints the possition (not array index)
                 break;
             } else if (leftSum != rightSum && row == arrLength - 2) { // checks the array if end reached 
                 System.out.print("No");

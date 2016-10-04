@@ -13,11 +13,10 @@ public class Task2c_PrintClusterCount {
         int[] arr = new int[numbersAmount];
         
         for (int row = 0; row < arr.length; row++){
-            System.out.printf("Insert element %d ", row + 1);
             arr[row] = scan.nextInt();
         }
         
-        Arrays.sort(arr);
+        
         
         int count = 0;
         int cluster = 0;
