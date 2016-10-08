@@ -34,8 +34,6 @@ public class Calculator {
 
     double divade(double firstOperand, double secoundOperand) {
 
-       
-
         double div = firstOperand / secoundOperand;
 
         return div;
@@ -50,7 +48,7 @@ public class Calculator {
 
     double switchCase() {
         double rezult = 0;
-        
+
         switch (command) {
 
             case "SUM":
