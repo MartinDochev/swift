@@ -1,8 +1,8 @@
-package task1_numbernotanumber;
+package numbernotanumber;
 
 import java.util.Scanner;
 
-public class Task1_NumberNotANumber {
+public class NumberNotANumber {
 
     public static void main(String[] args) {
 
