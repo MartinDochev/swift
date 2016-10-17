@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Task1_PeoplePresentation {
+public class PeoplePresentation {
 
     public static void main(String[] args) {
 
